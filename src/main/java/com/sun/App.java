@@ -15,7 +15,6 @@ public class App {
         System.out.println("Value at index 2: " + myList.getValue(2));
         System.out.println("Value at index 3: " + myList.getValue(3));
         System.out.println("Value at index 4: " + myList.getValue(4));
-        System.out.println("Rapli Kontol Bnaget");
         System.out.println("Array:");
         myList.printArray();         
     }
